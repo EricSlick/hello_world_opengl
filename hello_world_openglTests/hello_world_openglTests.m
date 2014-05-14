@@ -28,7 +28,7 @@
 
 - (void)testExample
 {
-    XCTAssertTrue(@"testExample", @"testExample1");
+    XCTAssertTrue(@"testExample", @"testExample");
     XCTAssertEqual(42*2/4, 42/2);
 //    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
 }
